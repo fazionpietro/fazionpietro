@@ -2,7 +2,7 @@
   
 
   <h1>Hello there, I'm Pietro 👋</h1>
-  <img src="https://www.fightersgeneration.com/nf7/char/alucard-castlevania-symphony-of-the-night-run-animation.gif" width="400" align="right" alt="Alucard Run" />
+  <img src="https://www.fightersgeneration.com/nf7/char/alucard-castlevania-symphony-of-the-night-run-animation.gif" width="300" align="right" alt="Alucard Run" />
   <p>
     🎓 I'm a young IT student at the <b><a href="https://www.univr.it">University of Verona</a></b>.<br>
     🌱 Currently diving deep into <b>Rust</b> and <b>Cloud Native</b> technologies.<br>
