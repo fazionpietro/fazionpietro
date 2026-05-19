@@ -6,6 +6,7 @@
     🎓 I'm a young IT student at the <b><a href="https://www.univr.it">University of Verona</a></b>.<br>
     🌱 Currently diving deep into <b>Rust</b> and <b>Cloud Native</b> technologies.<br>
     🤖 Taking my first steps in <b>Robotics</b>, <b>Embedded Firmware</b>, and PCB design with <b>KiCad</b>.<br>
+    🏠 <b>Homelab Enthusiast</b>
   </p>
 
   <h3>Tech Stack</h3>
