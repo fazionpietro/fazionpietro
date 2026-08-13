@@ -38,12 +38,4 @@
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
     <img src="https://img.shields.io/badge/KiCad-555555?style=for-the-badge&logo=kicad&logoColor=white&color=navy" alt="KiCad" /></br>
   </p>
-
-  <h3>About Me & Contact</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tuta.svg" width="20" align="absmiddle" style="margin-right: 15px;" />
-    <a href="mailto:pietrofazion@tutamail.com" style="text-decoration: none; color: inherit;">
-      pietrofazion@tutamail.com
-    </a>
-  </p>
 </div>
